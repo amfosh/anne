@@ -18,6 +18,18 @@ section,
   word-wrap: break-word;
 }
 
+p.small {
+  font-size: 18px;
+}
+
+
+hr {
+  width: 20%;
+  background-color: rgb(195, 195, 197);
+  height: 1px;
+  border: none;
+}
+
 a.mbr-iconfont:hover {
   text-decoration: none;
 }
@@ -208,7 +220,7 @@ figure[mbr-media-size] {
 img,
 iframe {
   display: block;
-  width: 100%;
+  max-width: 95%;
 }
 
 .card {
