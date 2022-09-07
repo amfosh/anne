@@ -37,6 +37,7 @@ body {
   font-family: 'Gill Sans Nova Light';
   font-size: 0.8rem;
   line-height: 1.5;
+  color: black;
 }
 .display-7 > .mbr-iconfont {
   font-size: 1rem;
@@ -729,6 +730,6 @@ a {
 .cid-sPeb7tJ191 {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #232323;
+  background-color: #ffffff;
   overflow: hidden;
 }
