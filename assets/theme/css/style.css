@@ -225,7 +225,6 @@ figure[mbr-media-size] {
 img,
 iframe {
   display: block;
-  max-width: 95%;
 }
 
 .card {
